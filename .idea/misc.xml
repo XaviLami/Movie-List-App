@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/lucas/OneDrive/Bureau/kotlin-rendu-lucasO-pa/app/src/main/res/layout/item_header.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/lucas/OneDrive/Bureau/kotlin-rendu-lucasO-pa/app/src/main/res/layout/item_view.xml" value="0.2" />
+        <entry key="..\:/Users/lucas/OneDrive/Bureau/kotlin-rendu-lucasO-pa/app/src/main/res/layout/main_activity.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/item_details.xml" value="0.6439032095449941" />
+        <entry key="app/src/main/res/layout/item_header.xml" value="0.19454803466796877" />
+        <entry key="app/src/main/res/layout/item_view.xml" value="0.3255925496419271" />
+        <entry key="app/src/main/res/layout/main_activity.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
